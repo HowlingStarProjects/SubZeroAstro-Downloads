@@ -5,5 +5,15 @@
       "text": "Dear God, I have been really good and my astro equipment is ready to go. Please bless me and all other astrophotographers with clear dark skies, good seeing and minimal moonlight for tonight.  If you could also throw in some anti-Murphy's Law pixie dust and maybe a cold beer, that would be great and would let me know you really care about me.  Amen.",
       "by": "Brian, SubZeroAstro"
     }
-  ]
+  ],
+  "send": {
+    "form": "https://docs.google.com/forms/d/e/1FAIpQLSdO2jdJC1nQTek1s0Vep5VJtwfCd5iIRasOskNESc8RtVcNWQ/formResponse",
+    "fields": {
+      "prayer": "entry.1282222064",
+      "name": "entry.2102214449",
+      "place": "entry.653983090",
+      "ok_to_show": "entry.1882202103",
+      "sent_from": "entry.1118913247"
+    }
+  }
 }
