@@ -1,0 +1,9 @@
+{
+  "_about": "Weather Prayers approved by Brian. The app and subzeroastro.com show one for two days (UTC, counted from 2026-01-01), in this order. Add new ones at the end. 'send' = Brian's Google Form (its formResponse address and the entry ids of its questions: prayer, name, place, ok_to_show, sent_from); without it, sending is off.",
+  "prayers": [
+    {
+      "text": "Dear God, I have been really good and my astro equipment is ready to go. Please bless me and all other astrophotographers with clear dark skies, good seeing and minimal moonlight for tonight.  If you could also throw in some anti-Murphy's Law pixie dust and maybe a cold beer, that would be great and would let me know you really care about me.  Amen.",
+      "by": "Brian, SubZeroAstro"
+    }
+  ]
+}
